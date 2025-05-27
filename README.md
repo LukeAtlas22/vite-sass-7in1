@@ -52,9 +52,10 @@ vanilla-sass-boilerplate/
 ├── index.html Entry point HTML file.
 ├── package.json Project configuration and dependencies.
 ├── README.md Project documentation.
+├── sass/
+│   ├── main.scss Main SASS file.
 ├── src/
 │   ├── main.js Main JavaScript file.
-│   ├── style.scss Main Sass file. Write your styles here.
 ```
 
 ## Commands
