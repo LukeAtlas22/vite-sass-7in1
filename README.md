@@ -1,4 +1,6 @@
-# Vanilla JS and Sass Boilerplate with Vite
+# Vanilla JS and Sass 7 in 1 - Boilerplate with Vite
+
+Everything is from this repo: jhordyess/vanilla-sass-boilerplate - I customized it by implementing the **Sass 7-1 architecture**
 
 This is a simple boilerplate project for getting started with a web development project using Vanilla JavaScript and Sass, powered by Vite.
 
