@@ -1,0 +1,15 @@
+@use "../abstracts" as *;
+
+@each $size-name, $size-value in $font-sizes {
+  .fs-#{$size-name} {
+    font-size: $size-value;
+  }
+}
+
+@include mq(large) {
+  @each $size-name, $size-value in $font-sizes-large {
+    .fs-#{$size-name} {
+      font-size: $size-value;
+    }
+  }
+}
